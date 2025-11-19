@@ -26,9 +26,6 @@ Examples:
 - `GET /api/posts` to fetch all
 - `GET /api/posts?search=term` to search
 
-## Download
-This project zip was generated on 2025-11-18T01:20:52.867385 UTC and is included in this workspace.
-
 ## Added features in updated project
 - Pagination & sorting via Spring Data `Pageable`. Use query params like `?page=0&size=10&sort=createdAt,desc`.
 - Swagger / OpenAPI UI at `/swagger-ui.html` (powered by springdoc).
